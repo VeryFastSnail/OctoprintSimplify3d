@@ -4,7 +4,7 @@
   <img src="https://i.ibb.co/THxgn6P/instance.png" />
 </p>
 
-This project provides python code for simplify 3d automatic .gcode file upload to multiple printers that use octoprint and raspberry pi. Click save toolpaths to disk, save file to temp dir, dialog will pop up with configured printers and after selecting one hgit button send and file will be uploaded to selected printer
+This project provides python code for simplify 3d automatic .gcode file upload to multiple printers that use octoprint and raspberry pi. Click save toolpaths to disk, save file to temp dir, dialog will pop up with configured printers and after selecting one, hit button send and file will be uploaded to selected printer
 
 # Todo's
 
@@ -19,6 +19,7 @@ This project provides python code for simplify 3d automatic .gcode file upload t
     4. Add it to scripts in simplify3d
     
 **Configuring printers in list**
+
 ![Config image](https://i.ibb.co/g6hhk5N/config.png)
 
 You can read how to obtain API key here: https://docs.octoprint.org/en/master/api/general.html#authorization
